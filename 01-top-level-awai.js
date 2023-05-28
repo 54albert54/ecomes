@@ -1,5 +1,5 @@
-import { products } from "./product.js";
-console.log(products[2].category.name)
+
+console.log(products)
 
 
 
